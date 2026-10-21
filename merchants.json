@@ -1,0 +1,4763 @@
+[
+  {
+    "merchant_id": "M00001",
+    "merchant_name": "BigBasket Kolkata",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "BIGBASKET KOLKATA",
+      "BIGBASKET*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 26.6835,
+        "lon": 84.7988
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-07-31",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00002",
+    "merchant_name": "BigBasket Lucknow",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "BIGBASKET LUCKNOW",
+      "BIGBASKET*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 24.2604,
+        "lon": 80.7043
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2021-01-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00003",
+    "merchant_name": "BigBasket Jaipur",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "BIGBASKET JAIPUR",
+      "BIGBASKET*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 21.8105,
+        "lon": 88.591
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-05-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00004",
+    "merchant_name": "DMart Lucknow",
+    "category": {
+      "mcc": 5411,
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "DMART LUCKNOW",
+      "DMART*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 21.1304,
+        "lon": 75.9212
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-09-11",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00005",
+    "merchant_name": "DMart Kochi",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "DMART KOCHI",
+      "DMART*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 8.3158,
+        "lon": 88.1691
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-09-18",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00006",
+    "merchant_name": "DMart Bengaluru",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "DMART BENGALURU",
+      "DMART*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 26.5919,
+        "lon": 76.5683
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-04-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00007",
+    "merchant_name": "Reliance Fresh Bengaluru",
+    "category": {
+      "mcc": 5411,
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "RELIANCE FRESH BENGALURU",
+      "RELIANCE*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 10.3385,
+        "lon": 84.1629
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-06-12",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00008",
+    "merchant_name": "Reliance Fresh Mumbai",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "RELIANCE FRESH MUMBAI",
+      "RELIANCE*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 11.602,
+        "lon": 75.9835
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-01-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00009",
+    "merchant_name": "Reliance Fresh Ahmedabad",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "RELIANCE FRESH AHMEDABAD",
+      "RELIANCE*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 26.8623,
+        "lon": 82.0065
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-02-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00010",
+    "merchant_name": "More Supermarket Ahmedabad",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "MORE SUPERMARKET AHMEDABAD",
+      "MORE*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 26.9429,
+        "lon": 89.3232
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-03-10",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00011",
+    "merchant_name": "More Supermarket Mumbai",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "MORE SUPERMARKET MUMBAI",
+      "MORE*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 26.0055,
+        "lon": 78.9292
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-02-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00012",
+    "merchant_name": "More Supermarket Bengaluru",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "MORE SUPERMARKET BENGALURU",
+      "MORE*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 29.1189,
+        "lon": 86.0115
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-10-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00013",
+    "merchant_name": "Nature's Basket Pune",
+    "category": {
+      "mcc": 5411,
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "NATURE'S BASKET PUNE",
+      "NATURE'S*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 8.047,
+        "lon": 73.5178
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2020-06-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00014",
+    "merchant_name": "Nature's Basket Ahmedabad",
+    "category": {
+      "mcc": 5411,
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "NATURE'S BASKET AHMEDABAD",
+      "NATURE'S*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 22.0202,
+        "lon": 73.4178
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-03-04",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00015",
+    "merchant_name": "Nature's Basket Chennai",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "NATURE'S BASKET CHENNAI",
+      "NATURE'S*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 17.9884,
+        "lon": 83.0429
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-06-07",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00016",
+    "merchant_name": "Barbeque Nation Pune",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "BARBEQUE NATION PUNE",
+      "BARBEQUE*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 25.4925,
+        "lon": 88.3146
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-10-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00017",
+    "merchant_name": "Barbeque Nation Kochi",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "BARBEQUE NATION KOCHI",
+      "BARBEQUE*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 12.9044,
+        "lon": 84.2571
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-11-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00018",
+    "merchant_name": "Barbeque Nation Kolkata",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "BARBEQUE NATION KOLKATA",
+      "BARBEQUE*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 12.836,
+        "lon": 77.2539
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-07-01",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00019",
+    "merchant_name": "Haldiram's Indore",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "HALDIRAM'S INDORE",
+      "HALDIRAM'S*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 9.0873,
+        "lon": 84.5897
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-08-05",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00020",
+    "merchant_name": "Haldiram's Bengaluru",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "HALDIRAM'S BENGALURU",
+      "HALDIRAM'S*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 18.8685,
+        "lon": 73.6146
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-08-21",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00021",
+    "merchant_name": "Haldiram's Jaipur",
+    "category": {
+      "mcc": 5812,
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "HALDIRAM'S JAIPUR",
+      "HALDIRAM'S*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 18.0591,
+        "lon": 71.9166
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-03-05",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00022",
+    "merchant_name": "Saravana Bhavan Pune",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "SARAVANA BHAVAN PUNE",
+      "SARAVANA*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 23.7504,
+        "lon": 85.6969
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-04-13",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00023",
+    "merchant_name": "Saravana Bhavan Lucknow",
+    "category": {
+      "mcc": 5812,
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "SARAVANA BHAVAN LUCKNOW",
+      "SARAVANA*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 10.4747,
+        "lon": 72.2529
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2021-08-13",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00024",
+    "merchant_name": "Saravana Bhavan Kolkata",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "SARAVANA BHAVAN KOLKATA",
+      "SARAVANA*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 25.3326,
+        "lon": 88.6018
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-08-17",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00025",
+    "merchant_name": "Mainland China Indore",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "MAINLAND CHINA INDORE",
+      "MAINLAND*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 10.8613,
+        "lon": 73.8072
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-01-07",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00026",
+    "merchant_name": "Mainland China Kolkata",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "MAINLAND CHINA KOLKATA",
+      "MAINLAND*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 10.3905,
+        "lon": 86.2124
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-07-18",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00027",
+    "merchant_name": "Mainland China Delhi",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "MAINLAND CHINA DELHI",
+      "MAINLAND*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 19.2812,
+        "lon": 77.0641
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2021-12-28",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00028",
+    "merchant_name": "McDonald's Indore",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "MCDONALD'S INDORE",
+      "MCDONALD'S*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 14.5581,
+        "lon": 82.9405
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-10-11",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00029",
+    "merchant_name": "McDonald's Pune",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "MCDONALD'S PUNE",
+      "MCDONALD'S*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 15.2478,
+        "lon": 71.5375
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-04-06",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00030",
+    "merchant_name": "McDonald's Hyderabad",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "MCDONALD'S HYDERABAD",
+      "MCDONALD'S*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 9.1215,
+        "lon": 83.5077
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-02-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00031",
+    "merchant_name": "Domino's Pune",
+    "category": {
+      "mcc": 5814,
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "DOMINO'S PUNE",
+      "DOMINO'S*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 15.0292,
+        "lon": 75.5439
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2023-07-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00032",
+    "merchant_name": "Domino's Bengaluru",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "DOMINO'S BENGALURU",
+      "DOMINO'S*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 21.9452,
+        "lon": 86.1371
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-03-31",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00033",
+    "merchant_name": "Domino's Chennai",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "DOMINO'S CHENNAI",
+      "DOMINO'S*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 22.8679,
+        "lon": 82.2897
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-06-10",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00034",
+    "merchant_name": "KFC Hyderabad",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "KFC HYDERABAD",
+      "KFC*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 8.9682,
+        "lon": 81.8334
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-12-31",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00035",
+    "merchant_name": "KFC Delhi",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "KFC DELHI",
+      "KFC*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 15.2827,
+        "lon": 74.7357
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-10-28",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00036",
+    "merchant_name": "KFC Lucknow",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "KFC LUCKNOW",
+      "KFC*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 29.4708,
+        "lon": 72.4289
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-11-26",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00037",
+    "merchant_name": "Burger King Lucknow",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "BURGER KING LUCKNOW",
+      "BURGER*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 15.4498,
+        "lon": 89.9873
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-02-18",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00038",
+    "merchant_name": "Burger King Hyderabad",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "BURGER KING HYDERABAD",
+      "BURGER*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 9.9854,
+        "lon": 73.0466
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-03-25",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00039",
+    "merchant_name": "Burger King Mumbai",
+    "category": {
+      "mcc": 5814,
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "BURGER KING MUMBAI",
+      "BURGER*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 29.698,
+        "lon": 72.4236
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-03-25",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00040",
+    "merchant_name": "Subway Lucknow",
+    "category": {
+      "mcc": 5814,
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "SUBWAY LUCKNOW",
+      "SUBWAY*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 16.7603,
+        "lon": 79.7282
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-11-03",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00041",
+    "merchant_name": "Subway Pune",
+    "category": {
+      "mcc": "5814",
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "SUBWAY PUNE",
+      "SUBWAY*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 25.9838,
+        "lon": 86.2774
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-08-10",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00042",
+    "merchant_name": "Subway Bengaluru",
+    "category": {
+      "mcc": 5814,
+      "description": "Fast Food Restaurants"
+    },
+    "aliases": [
+      "SUBWAY BENGALURU",
+      "SUBWAY*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 8.412,
+        "lon": 87.3821
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-05-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00043",
+    "merchant_name": "Indian Oil Hyderabad",
+    "category": {
+      "mcc": 5541,
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "INDIAN OIL HYDERABAD",
+      "INDIAN*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 10.4411,
+        "lon": 75.5652
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-11-07",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00044",
+    "merchant_name": "Indian Oil Bengaluru",
+    "category": {
+      "mcc": "5541",
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "INDIAN OIL BENGALURU",
+      "INDIAN*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 24.3405,
+        "lon": 74.199
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2020-12-21",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00045",
+    "merchant_name": "Indian Oil Chennai",
+    "category": {
+      "mcc": "5541",
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "INDIAN OIL CHENNAI",
+      "INDIAN*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 20.4491,
+        "lon": 81.2155
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-10-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00046",
+    "merchant_name": "HP Petrol Pump Mumbai",
+    "category": {
+      "mcc": 5541,
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "HP PETROL PUMP MUMBAI",
+      "HP*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 27.7377,
+        "lon": 80.2668
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2021-02-18",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00047",
+    "merchant_name": "HP Petrol Pump Indore",
+    "category": {
+      "mcc": "5541",
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "HP PETROL PUMP INDORE",
+      "HP*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 8.4729,
+        "lon": 77.4254
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-01-21",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00048",
+    "merchant_name": "HP Petrol Pump Ahmedabad",
+    "category": {
+      "mcc": 5541,
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "HP PETROL PUMP AHMEDABAD",
+      "HP*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 20.2766,
+        "lon": 71.7929
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-07-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00049",
+    "merchant_name": "Bharat Petroleum Hyderabad",
+    "category": {
+      "mcc": 5541,
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "BHARAT PETROLEUM HYDERABAD",
+      "BHARAT*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 23.0081,
+        "lon": 83.7791
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-09-24",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00050",
+    "merchant_name": "Bharat Petroleum Mumbai",
+    "category": {
+      "mcc": "5541",
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "BHARAT PETROLEUM MUMBAI",
+      "BHARAT*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 8.3794,
+        "lon": 87.6014
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-07-24",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00051",
+    "merchant_name": "Bharat Petroleum Chennai",
+    "category": {
+      "mcc": "5541",
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "BHARAT PETROLEUM CHENNAI",
+      "BHARAT*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 20.5346,
+        "lon": 78.4821
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2020-05-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00052",
+    "merchant_name": "Shell Jaipur",
+    "category": {
+      "mcc": 5541,
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "SHELL JAIPUR",
+      "SHELL*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 10.3083,
+        "lon": 83.4917
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-12-25",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00053",
+    "merchant_name": "Shell Pune",
+    "category": {
+      "mcc": "5541",
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "SHELL PUNE",
+      "SHELL*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 10.1822,
+        "lon": 87.0602
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-11-09",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00054",
+    "merchant_name": "Shell Lucknow",
+    "category": {
+      "mcc": "5541",
+      "description": "Service Stations"
+    },
+    "aliases": [
+      "SHELL LUCKNOW",
+      "SHELL*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 15.5269,
+        "lon": 84.9643
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-07-25",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00055",
+    "merchant_name": "Shoppers Stop Jaipur",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "SHOPPERS STOP JAIPUR",
+      "SHOPPERS*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 16.2464,
+        "lon": 84.4078
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-10-22",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00056",
+    "merchant_name": "Shoppers Stop Hyderabad",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "SHOPPERS STOP HYDERABAD",
+      "SHOPPERS*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 21.8228,
+        "lon": 74.5635
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2020-10-19",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00057",
+    "merchant_name": "Shoppers Stop Kochi",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "SHOPPERS STOP KOCHI",
+      "SHOPPERS*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 15.1926,
+        "lon": 71.569
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-03-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00058",
+    "merchant_name": "Lifestyle Delhi",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "LIFESTYLE DELHI",
+      "LIFESTYLE*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 13.2396,
+        "lon": 70.6841
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2018-10-09",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00059",
+    "merchant_name": "Lifestyle Kolkata",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "LIFESTYLE KOLKATA",
+      "LIFESTYLE*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 17.5288,
+        "lon": 74.2103
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-07-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00060",
+    "merchant_name": "Lifestyle Kochi",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "LIFESTYLE KOCHI",
+      "LIFESTYLE*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 8.8349,
+        "lon": 73.8713
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-02-06",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00061",
+    "merchant_name": "Pantaloons Bengaluru",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "PANTALOONS BENGALURU",
+      "PANTALOONS*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 17.7312,
+        "lon": 74.0983
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-03-06",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00062",
+    "merchant_name": "Pantaloons Pune",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "PANTALOONS PUNE",
+      "PANTALOONS*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 13.5027,
+        "lon": 70.3097
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-12-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00063",
+    "merchant_name": "Pantaloons Delhi",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "PANTALOONS DELHI",
+      "PANTALOONS*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 13.3184,
+        "lon": 89.5887
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-12-19",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00064",
+    "merchant_name": "Westside Pune",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "WESTSIDE PUNE",
+      "WESTSIDE*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 16.9652,
+        "lon": 85.3777
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2019-05-28",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00065",
+    "merchant_name": "Westside Lucknow",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "WESTSIDE LUCKNOW",
+      "WESTSIDE*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 14.14,
+        "lon": 82.9096
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-10-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00066",
+    "merchant_name": "Westside Kolkata",
+    "category": {
+      "mcc": "5311",
+      "description": "Department Stores"
+    },
+    "aliases": [
+      "WESTSIDE KOLKATA",
+      "WESTSIDE*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 26.5915,
+        "lon": 71.8676
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-08-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00067",
+    "merchant_name": "Amazon India Delhi",
+    "category": {
+      "mcc": "5999",
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "AMAZON INDIA DELHI",
+      "AMAZON*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 12.1845,
+        "lon": 86.6274
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-07-22",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00068",
+    "merchant_name": "Amazon India Lucknow",
+    "category": {
+      "mcc": "5999",
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "AMAZON INDIA LUCKNOW",
+      "AMAZON*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 20.2684,
+        "lon": 77.8283
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-09-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00069",
+    "merchant_name": "Amazon India Pune",
+    "category": {
+      "mcc": "5999",
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "AMAZON INDIA PUNE",
+      "AMAZON*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 11.1452,
+        "lon": 86.1523
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-02-17",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00070",
+    "merchant_name": "Flipkart Kochi",
+    "category": {
+      "mcc": 5999,
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "FLIPKART KOCHI",
+      "FLIPKART*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 26.6367,
+        "lon": 73.6938
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-04-05",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00071",
+    "merchant_name": "Flipkart Bengaluru",
+    "category": {
+      "mcc": 5999,
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "FLIPKART BENGALURU",
+      "FLIPKART*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 23.72,
+        "lon": 75.7072
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-12-05",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00072",
+    "merchant_name": "Flipkart Jaipur",
+    "category": {
+      "mcc": "5999",
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "FLIPKART JAIPUR",
+      "FLIPKART*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 23.8375,
+        "lon": 71.851
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-06-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00073",
+    "merchant_name": "Meesho Ahmedabad",
+    "category": {
+      "mcc": "5999",
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "MEESHO AHMEDABAD",
+      "MEESHO*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 17.0294,
+        "lon": 87.8077
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-08-05",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00074",
+    "merchant_name": "Meesho Lucknow",
+    "category": {
+      "mcc": "5999",
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "MEESHO LUCKNOW",
+      "MEESHO*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 21.7396,
+        "lon": 73.322
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-03-04",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00075",
+    "merchant_name": "Meesho Mumbai",
+    "category": {
+      "mcc": 5999,
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "MEESHO MUMBAI",
+      "MEESHO*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 15.8775,
+        "lon": 77.9029
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2022-05-08",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00076",
+    "merchant_name": "Myntra Chennai",
+    "category": {
+      "mcc": 5999,
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "MYNTRA CHENNAI",
+      "MYNTRA*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 29.4869,
+        "lon": 70.8593
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2022-06-18",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00077",
+    "merchant_name": "Myntra Kochi",
+    "category": {
+      "mcc": 5999,
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "MYNTRA KOCHI",
+      "MYNTRA*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 29.8862,
+        "lon": 76.8281
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-05-24",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00078",
+    "merchant_name": "Myntra Delhi",
+    "category": {
+      "mcc": "5999",
+      "description": "Miscellaneous Retail"
+    },
+    "aliases": [
+      "MYNTRA DELHI",
+      "MYNTRA*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 15.099,
+        "lon": 81.5504
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-11-26",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00079",
+    "merchant_name": "Croma Pune",
+    "category": {
+      "mcc": 5732,
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "CROMA PUNE",
+      "CROMA*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 29.1118,
+        "lon": 71.4589
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2023-02-11",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00080",
+    "merchant_name": "Croma Hyderabad",
+    "category": {
+      "mcc": 5732,
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "CROMA HYDERABAD",
+      "CROMA*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 28.2644,
+        "lon": 79.7606
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-06-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00081",
+    "merchant_name": "Croma Chennai",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "CROMA CHENNAI",
+      "CROMA*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 13.1152,
+        "lon": 76.2393
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-04-24",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00082",
+    "merchant_name": "Reliance Digital Chennai",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "RELIANCE DIGITAL CHENNAI",
+      "RELIANCE*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 29.702,
+        "lon": 78.7529
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-11-19",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00083",
+    "merchant_name": "Reliance Digital Lucknow",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "RELIANCE DIGITAL LUCKNOW",
+      "RELIANCE*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 17.1929,
+        "lon": 82.8022
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-05-21",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00084",
+    "merchant_name": "Reliance Digital Bengaluru",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "RELIANCE DIGITAL BENGALURU",
+      "RELIANCE*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 23.0329,
+        "lon": 86.7125
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-11-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00085",
+    "merchant_name": "Vijay Sales Kochi",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "VIJAY SALES KOCHI",
+      "VIJAY*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 21.6632,
+        "lon": 80.5587
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-04-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00086",
+    "merchant_name": "Vijay Sales Delhi",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "VIJAY SALES DELHI",
+      "VIJAY*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 26.4321,
+        "lon": 77.7582
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2021-10-10",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00087",
+    "merchant_name": "Vijay Sales Chennai",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "VIJAY SALES CHENNAI",
+      "VIJAY*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 21.5463,
+        "lon": 77.8054
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-04-28",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00088",
+    "merchant_name": "Mumbai Metro Kolkata",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "MUMBAI METRO KOLKATA",
+      "MUMBAI*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 29.2923,
+        "lon": 80.7623
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-01-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00089",
+    "merchant_name": "Mumbai Metro Delhi",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "MUMBAI METRO DELHI",
+      "MUMBAI*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 26.6857,
+        "lon": 87.9458
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-09-29",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00090",
+    "merchant_name": "Mumbai Metro Jaipur",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "MUMBAI METRO JAIPUR",
+      "MUMBAI*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 29.5429,
+        "lon": 83.6889
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-07-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00091",
+    "merchant_name": "Delhi Metro Kochi",
+    "category": {
+      "mcc": 4111,
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "DELHI METRO KOCHI",
+      "DELHI*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 21.5832,
+        "lon": 76.7808
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-02-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00092",
+    "merchant_name": "Delhi Metro Jaipur",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "DELHI METRO JAIPUR",
+      "DELHI*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 10.5841,
+        "lon": 83.6907
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-12-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00093",
+    "merchant_name": "Delhi Metro Ahmedabad",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "DELHI METRO AHMEDABAD",
+      "DELHI*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 24.8846,
+        "lon": 71.1422
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-02-03",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00094",
+    "merchant_name": "Uber India Jaipur",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "UBER INDIA JAIPUR",
+      "UBER*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 25.594,
+        "lon": 80.1511
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-08-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00095",
+    "merchant_name": "Uber India Delhi",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "UBER INDIA DELHI",
+      "UBER*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 14.5283,
+        "lon": 85.689
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-04-02",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00096",
+    "merchant_name": "Uber India Kolkata",
+    "category": {
+      "mcc": 4111,
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "UBER INDIA KOLKATA",
+      "UBER*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 16.4616,
+        "lon": 88.3088
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-01-30",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00097",
+    "merchant_name": "Ola Cabs Kolkata",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "OLA CABS KOLKATA",
+      "OLA*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 26.3987,
+        "lon": 81.4428
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2018-06-06",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00098",
+    "merchant_name": "Ola Cabs Jaipur",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "OLA CABS JAIPUR",
+      "OLA*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 23.1118,
+        "lon": 84.7698
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-05-29",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00099",
+    "merchant_name": "Ola Cabs Indore",
+    "category": {
+      "mcc": "4111",
+      "description": "Local Commuter Transport"
+    },
+    "aliases": [
+      "OLA CABS INDORE",
+      "OLA*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 28.4963,
+        "lon": 87.5776
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-06-25",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00100",
+    "merchant_name": "IndiGo Kolkata",
+    "category": {
+      "mcc": "4511",
+      "description": "Airlines"
+    },
+    "aliases": [
+      "INDIGO KOLKATA",
+      "INDIGO*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 23.9004,
+        "lon": 88.0228
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-09-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00101",
+    "merchant_name": "IndiGo Lucknow",
+    "category": {
+      "mcc": 4511,
+      "description": "Airlines"
+    },
+    "aliases": [
+      "INDIGO LUCKNOW",
+      "INDIGO*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 15.9615,
+        "lon": 83.5925
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2024-03-04",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00102",
+    "merchant_name": "IndiGo Kochi",
+    "category": {
+      "mcc": 4511,
+      "description": "Airlines"
+    },
+    "aliases": [
+      "INDIGO KOCHI",
+      "INDIGO*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 8.764,
+        "lon": 86.8084
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2019-12-09",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00103",
+    "merchant_name": "Air India Kochi",
+    "category": {
+      "mcc": 4511,
+      "description": "Airlines"
+    },
+    "aliases": [
+      "AIR INDIA KOCHI",
+      "AIR*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 13.6047,
+        "lon": 72.5808
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-05-05",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00104",
+    "merchant_name": "Air India Bengaluru",
+    "category": {
+      "mcc": "4511",
+      "description": "Airlines"
+    },
+    "aliases": [
+      "AIR INDIA BENGALURU",
+      "AIR*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 8.5794,
+        "lon": 81.501
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-02-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00105",
+    "merchant_name": "Air India Delhi",
+    "category": {
+      "mcc": "4511",
+      "description": "Airlines"
+    },
+    "aliases": [
+      "AIR INDIA DELHI",
+      "AIR*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 27.8243,
+        "lon": 76.4364
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-06-19",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00106",
+    "merchant_name": "Vistara Indore",
+    "category": {
+      "mcc": "4511",
+      "description": "Airlines"
+    },
+    "aliases": [
+      "VISTARA INDORE",
+      "VISTARA*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 9.9373,
+        "lon": 73.1659
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-03-29",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00107",
+    "merchant_name": "Vistara Hyderabad",
+    "category": {
+      "mcc": "4511",
+      "description": "Airlines"
+    },
+    "aliases": [
+      "VISTARA HYDERABAD",
+      "VISTARA*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 11.3282,
+        "lon": 72.4835
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-02-19",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00108",
+    "merchant_name": "Vistara Kolkata",
+    "category": {
+      "mcc": 4511,
+      "description": "Airlines"
+    },
+    "aliases": [
+      "VISTARA KOLKATA",
+      "VISTARA*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 23.5688,
+        "lon": 81.9297
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2023-09-18",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00109",
+    "merchant_name": "SpiceJet Pune",
+    "category": {
+      "mcc": 4511,
+      "description": "Airlines"
+    },
+    "aliases": [
+      "SPICEJET PUNE",
+      "SPICEJET*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 28.7995,
+        "lon": 81.4565
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2018-10-07",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00110",
+    "merchant_name": "SpiceJet Lucknow",
+    "category": {
+      "mcc": "4511",
+      "description": "Airlines"
+    },
+    "aliases": [
+      "SPICEJET LUCKNOW",
+      "SPICEJET*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 16.6541,
+        "lon": 77.7783
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-06-28",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00111",
+    "merchant_name": "SpiceJet Hyderabad",
+    "category": {
+      "mcc": 4511,
+      "description": "Airlines"
+    },
+    "aliases": [
+      "SPICEJET HYDERABAD",
+      "SPICEJET*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 14.1468,
+        "lon": 84.6717
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-02-05",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00112",
+    "merchant_name": "Taj Hotels Indore",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "TAJ HOTELS INDORE",
+      "TAJ*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 23.7418,
+        "lon": 74.358
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2023-02-11",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00113",
+    "merchant_name": "Taj Hotels Hyderabad",
+    "category": {
+      "mcc": 7011,
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "TAJ HOTELS HYDERABAD",
+      "TAJ*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 10.8187,
+        "lon": 79.8367
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-12-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00114",
+    "merchant_name": "Taj Hotels Kochi",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "TAJ HOTELS KOCHI",
+      "TAJ*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 22.3208,
+        "lon": 76.22
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-03-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00115",
+    "merchant_name": "OYO Rooms Kolkata",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "OYO ROOMS KOLKATA",
+      "OYO*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 26.0678,
+        "lon": 80.498
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-08-11",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00116",
+    "merchant_name": "OYO Rooms Hyderabad",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "OYO ROOMS HYDERABAD",
+      "OYO*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 15.3674,
+        "lon": 72.9513
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-08-11",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00117",
+    "merchant_name": "OYO Rooms Indore",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "OYO ROOMS INDORE",
+      "OYO*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 18.6722,
+        "lon": 75.7985
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-10-09",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00118",
+    "merchant_name": "Marriott Pune",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "MARRIOTT PUNE",
+      "MARRIOTT*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 25.9571,
+        "lon": 70.9124
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-05-30",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00119",
+    "merchant_name": "Marriott Kochi",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "MARRIOTT KOCHI",
+      "MARRIOTT*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 22.2607,
+        "lon": 78.2921
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-11-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00120",
+    "merchant_name": "Marriott Indore",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "MARRIOTT INDORE",
+      "MARRIOTT*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 17.6135,
+        "lon": 70.9714
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2023-09-21",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00121",
+    "merchant_name": "ITC Hotels Ahmedabad",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "ITC HOTELS AHMEDABAD",
+      "ITC*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 10.0446,
+        "lon": 76.5612
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-05-23",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00122",
+    "merchant_name": "ITC Hotels Chennai",
+    "category": {
+      "mcc": "7011",
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "ITC HOTELS CHENNAI",
+      "ITC*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 29.0783,
+        "lon": 85.9375
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2023-09-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00123",
+    "merchant_name": "ITC Hotels Mumbai",
+    "category": {
+      "mcc": 7011,
+      "description": "Hotels, Motels, Resorts"
+    },
+    "aliases": [
+      "ITC HOTELS MUMBAI",
+      "ITC*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 20.3938,
+        "lon": 83.0126
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-01-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00124",
+    "merchant_name": "Tata Power Ahmedabad",
+    "category": {
+      "mcc": "4900",
+      "description": "Utilities"
+    },
+    "aliases": [
+      "TATA POWER AHMEDABAD",
+      "TATA*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 10.3974,
+        "lon": 85.4523
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-12-01",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00125",
+    "merchant_name": "Tata Power Mumbai",
+    "category": {
+      "mcc": 4900,
+      "description": "Utilities"
+    },
+    "aliases": [
+      "TATA POWER MUMBAI",
+      "TATA*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 17.8037,
+        "lon": 70.6187
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-04-24",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00126",
+    "merchant_name": "Tata Power Lucknow",
+    "category": {
+      "mcc": "4900",
+      "description": "Utilities"
+    },
+    "aliases": [
+      "TATA POWER LUCKNOW",
+      "TATA*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 28.011,
+        "lon": 76.4398
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-01-21",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00127",
+    "merchant_name": "Adani Electricity Mumbai",
+    "category": {
+      "mcc": "4900",
+      "description": "Utilities"
+    },
+    "aliases": [
+      "ADANI ELECTRICITY MUMBAI",
+      "ADANI*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 9.4806,
+        "lon": 83.7848
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-06-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00128",
+    "merchant_name": "Adani Electricity Ahmedabad",
+    "category": {
+      "mcc": "4900",
+      "description": "Utilities"
+    },
+    "aliases": [
+      "ADANI ELECTRICITY AHMEDABAD",
+      "ADANI*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 25.1078,
+        "lon": 78.3469
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-06-03",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00129",
+    "merchant_name": "Adani Electricity Delhi",
+    "category": {
+      "mcc": 4900,
+      "description": "Utilities"
+    },
+    "aliases": [
+      "ADANI ELECTRICITY DELHI",
+      "ADANI*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 28.0275,
+        "lon": 79.9229
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-02-07",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00130",
+    "merchant_name": "MSEDCL Indore",
+    "category": {
+      "mcc": "4900",
+      "description": "Utilities"
+    },
+    "aliases": [
+      "MSEDCL INDORE",
+      "MSEDCL*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 12.153,
+        "lon": 72.802
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-11-09",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00131",
+    "merchant_name": "MSEDCL Pune",
+    "category": {
+      "mcc": "4900",
+      "description": "Utilities"
+    },
+    "aliases": [
+      "MSEDCL PUNE",
+      "MSEDCL*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 27.9115,
+        "lon": 72.9665
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-06-30",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00132",
+    "merchant_name": "MSEDCL Lucknow",
+    "category": {
+      "mcc": "4900",
+      "description": "Utilities"
+    },
+    "aliases": [
+      "MSEDCL LUCKNOW",
+      "MSEDCL*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 24.6854,
+        "lon": 85.0744
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-08-17",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00133",
+    "merchant_name": "Jio Hyderabad",
+    "category": {
+      "mcc": "4814",
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "JIO HYDERABAD",
+      "JIO*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 22.1191,
+        "lon": 75.3815
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-05-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00134",
+    "merchant_name": "Jio Lucknow",
+    "category": {
+      "mcc": "4814",
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "JIO LUCKNOW",
+      "JIO*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 8.2756,
+        "lon": 76.6253
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-01-11",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00135",
+    "merchant_name": "Jio Indore",
+    "category": {
+      "mcc": "4814",
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "JIO INDORE",
+      "JIO*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 21.2741,
+        "lon": 84.069
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-02-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00136",
+    "merchant_name": "Airtel Bengaluru",
+    "category": {
+      "mcc": "4814",
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "AIRTEL BENGALURU",
+      "AIRTEL*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 8.0527,
+        "lon": 82.53
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2021-01-06",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00137",
+    "merchant_name": "Airtel Indore",
+    "category": {
+      "mcc": "4814",
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "AIRTEL INDORE",
+      "AIRTEL*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 25.9721,
+        "lon": 82.4158
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-02-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00138",
+    "merchant_name": "Airtel Mumbai",
+    "category": {
+      "mcc": "4814",
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "AIRTEL MUMBAI",
+      "AIRTEL*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 19.2829,
+        "lon": 77.9945
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2019-06-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00139",
+    "merchant_name": "Vi Delhi",
+    "category": {
+      "mcc": 4814,
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "VI DELHI",
+      "VI*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 20.7644,
+        "lon": 81.75
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2019-09-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00140",
+    "merchant_name": "Vi Indore",
+    "category": {
+      "mcc": 4814,
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "VI INDORE",
+      "VI*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 20.9377,
+        "lon": 89.2525
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2021-06-17",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00141",
+    "merchant_name": "Vi Bengaluru",
+    "category": {
+      "mcc": 4814,
+      "description": "Telecommunication Services"
+    },
+    "aliases": [
+      "VI BENGALURU",
+      "VI*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 25.0721,
+        "lon": 88.6213
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-04-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00142",
+    "merchant_name": "Apollo Hospitals Hyderabad",
+    "category": {
+      "mcc": 8062,
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "APOLLO HOSPITALS HYDERABAD",
+      "APOLLO*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 25.1031,
+        "lon": 87.3551
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-03-08",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00143",
+    "merchant_name": "Apollo Hospitals Jaipur",
+    "category": {
+      "mcc": "8062",
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "APOLLO HOSPITALS JAIPUR",
+      "APOLLO*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 16.509,
+        "lon": 71.9484
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-12-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00144",
+    "merchant_name": "Apollo Hospitals Bengaluru",
+    "category": {
+      "mcc": "8062",
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "APOLLO HOSPITALS BENGALURU",
+      "APOLLO*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 26.5463,
+        "lon": 70.4336
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-07-22",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00145",
+    "merchant_name": "Fortis Delhi",
+    "category": {
+      "mcc": 8062,
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "FORTIS DELHI",
+      "FORTIS*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 25.5956,
+        "lon": 89.5995
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-01-26",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00146",
+    "merchant_name": "Fortis Kolkata",
+    "category": {
+      "mcc": "8062",
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "FORTIS KOLKATA",
+      "FORTIS*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 9.1244,
+        "lon": 83.2973
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-11-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00147",
+    "merchant_name": "Fortis Bengaluru",
+    "category": {
+      "mcc": "8062",
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "FORTIS BENGALURU",
+      "FORTIS*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 10.3526,
+        "lon": 77.8358
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-07-19",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00148",
+    "merchant_name": "Max Healthcare Indore",
+    "category": {
+      "mcc": "8062",
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "MAX HEALTHCARE INDORE",
+      "MAX*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 23.1799,
+        "lon": 78.2839
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-10-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00149",
+    "merchant_name": "Max Healthcare Hyderabad",
+    "category": {
+      "mcc": 8062,
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "MAX HEALTHCARE HYDERABAD",
+      "MAX*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 9.1668,
+        "lon": 71.1456
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-11-25",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00150",
+    "merchant_name": "Max Healthcare Ahmedabad",
+    "category": {
+      "mcc": 8062,
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "MAX HEALTHCARE AHMEDABAD",
+      "MAX*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 26.5282,
+        "lon": 85.7159
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-03-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00151",
+    "merchant_name": "Apollo Pharmacy Bengaluru",
+    "category": {
+      "mcc": 5912,
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "APOLLO PHARMACY BENGALURU",
+      "APOLLO*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 24.1641,
+        "lon": 85.4666
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-07-13",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00152",
+    "merchant_name": "Apollo Pharmacy Mumbai",
+    "category": {
+      "mcc": 5912,
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "APOLLO PHARMACY MUMBAI",
+      "APOLLO*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 9.5374,
+        "lon": 86.4745
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-07-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00153",
+    "merchant_name": "Apollo Pharmacy Pune",
+    "category": {
+      "mcc": "5912",
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "APOLLO PHARMACY PUNE",
+      "APOLLO*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 28.3138,
+        "lon": 83.6706
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-09-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00154",
+    "merchant_name": "MedPlus Kochi",
+    "category": {
+      "mcc": "5912",
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "MEDPLUS KOCHI",
+      "MEDPLUS*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 11.2057,
+        "lon": 73.6756
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-08-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00155",
+    "merchant_name": "MedPlus Hyderabad",
+    "category": {
+      "mcc": 5912,
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "MEDPLUS HYDERABAD",
+      "MEDPLUS*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 24.7632,
+        "lon": 86.8539
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-03-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00156",
+    "merchant_name": "MedPlus Mumbai",
+    "category": {
+      "mcc": "5912",
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "MEDPLUS MUMBAI",
+      "MEDPLUS*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 28.1565,
+        "lon": 78.2375
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-02-28",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00157",
+    "merchant_name": "1mg Pune",
+    "category": {
+      "mcc": "5912",
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "1MG PUNE",
+      "1MG*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 17.5958,
+        "lon": 73.0898
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-05-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00158",
+    "merchant_name": "1mg Delhi",
+    "category": {
+      "mcc": "5912",
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "1MG DELHI",
+      "1MG*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 13.2089,
+        "lon": 82.9564
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-09-08",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00159",
+    "merchant_name": "1mg Chennai",
+    "category": {
+      "mcc": "5912",
+      "description": "Drug Stores, Pharmacies"
+    },
+    "aliases": [
+      "1MG CHENNAI",
+      "1MG*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 20.6715,
+        "lon": 78.7731
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-03-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00160",
+    "merchant_name": "Manipal University Lucknow",
+    "category": {
+      "mcc": 8220,
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "MANIPAL UNIVERSITY LUCKNOW",
+      "MANIPAL*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 11.8429,
+        "lon": 79.3348
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-11-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00161",
+    "merchant_name": "Manipal University Delhi",
+    "category": {
+      "mcc": "8220",
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "MANIPAL UNIVERSITY DELHI",
+      "MANIPAL*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 27.9978,
+        "lon": 72.8971
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-03-04",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00162",
+    "merchant_name": "Manipal University Mumbai",
+    "category": {
+      "mcc": "8220",
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "MANIPAL UNIVERSITY MUMBAI",
+      "MANIPAL*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 28.8872,
+        "lon": 72.5168
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-08-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00163",
+    "merchant_name": "Amity University Delhi",
+    "category": {
+      "mcc": "8220",
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "AMITY UNIVERSITY DELHI",
+      "AMITY*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 18.8254,
+        "lon": 72.0919
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-11-10",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00164",
+    "merchant_name": "Amity University Kochi",
+    "category": {
+      "mcc": "8220",
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "AMITY UNIVERSITY KOCHI",
+      "AMITY*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 29.1935,
+        "lon": 76.784
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-12-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00165",
+    "merchant_name": "Amity University Mumbai",
+    "category": {
+      "mcc": "8220",
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "AMITY UNIVERSITY MUMBAI",
+      "AMITY*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 24.6125,
+        "lon": 80.0159
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-12-19",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00166",
+    "merchant_name": "BITS Pilani Hyderabad",
+    "category": {
+      "mcc": "8220",
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "BITS PILANI HYDERABAD",
+      "BITS*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 16.4445,
+        "lon": 75.5
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-04-17",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00167",
+    "merchant_name": "BITS Pilani Kochi",
+    "category": {
+      "mcc": "8220",
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "BITS PILANI KOCHI",
+      "BITS*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 22.8486,
+        "lon": 79.9776
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2024-03-24",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00168",
+    "merchant_name": "BITS Pilani Mumbai",
+    "category": {
+      "mcc": 8220,
+      "description": "Colleges, Universities"
+    },
+    "aliases": [
+      "BITS PILANI MUMBAI",
+      "BITS*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 26.2843,
+        "lon": 87.7035
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-08-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00169",
+    "merchant_name": "Tanishq Chennai",
+    "category": {
+      "mcc": 5944,
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "TANISHQ CHENNAI",
+      "TANISHQ*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 19.9953,
+        "lon": 85.1745
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-03-26",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00170",
+    "merchant_name": "Tanishq Kolkata",
+    "category": {
+      "mcc": "5944",
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "TANISHQ KOLKATA",
+      "TANISHQ*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 26.2625,
+        "lon": 70.8099
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-09-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00171",
+    "merchant_name": "Tanishq Ahmedabad",
+    "category": {
+      "mcc": 5944,
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "TANISHQ AHMEDABAD",
+      "TANISHQ*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 27.916,
+        "lon": 73.3406
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2021-05-30",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00172",
+    "merchant_name": "Kalyan Jewellers Hyderabad",
+    "category": {
+      "mcc": 5944,
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "KALYAN JEWELLERS HYDERABAD",
+      "KALYAN*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 29.8936,
+        "lon": 88.7431
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2023-08-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00173",
+    "merchant_name": "Kalyan Jewellers Pune",
+    "category": {
+      "mcc": 5944,
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "KALYAN JEWELLERS PUNE",
+      "KALYAN*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 9.49,
+        "lon": 85.8132
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2023-10-21",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00174",
+    "merchant_name": "Kalyan Jewellers Mumbai",
+    "category": {
+      "mcc": "5944",
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "KALYAN JEWELLERS MUMBAI",
+      "KALYAN*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 15.9302,
+        "lon": 88.1714
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-07-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00175",
+    "merchant_name": "Malabar Gold Kolkata",
+    "category": {
+      "mcc": "5944",
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "MALABAR GOLD KOLKATA",
+      "MALABAR*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 18.7542,
+        "lon": 80.7769
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-02-26",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00176",
+    "merchant_name": "Malabar Gold Kochi",
+    "category": {
+      "mcc": 5944,
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "MALABAR GOLD KOCHI",
+      "MALABAR*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 28.808,
+        "lon": 80.9015
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-05-23",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00177",
+    "merchant_name": "Malabar Gold Indore",
+    "category": {
+      "mcc": "5944",
+      "description": "Jewelry Stores"
+    },
+    "aliases": [
+      "MALABAR GOLD INDORE",
+      "MALABAR*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 11.962,
+        "lon": 86.8091
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-07-14",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00178",
+    "merchant_name": "Dream11 Kolkata",
+    "category": {
+      "mcc": "7995",
+      "description": "Betting, Casino Gambling"
+    },
+    "aliases": [
+      "DREAM11 KOLKATA",
+      "DREAM11*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 10.4874,
+        "lon": 88.0421
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2020-01-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00179",
+    "merchant_name": "Dream11 Indore",
+    "category": {
+      "mcc": "7995",
+      "description": "Betting, Casino Gambling"
+    },
+    "aliases": [
+      "DREAM11 INDORE",
+      "DREAM11*IND"
+    ],
+    "address": {
+      "city": "Indore",
+      "country": "IN",
+      "geo": {
+        "lat": 12.0031,
+        "lon": 77.3134
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-05-04",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00180",
+    "merchant_name": "Dream11 Chennai",
+    "category": {
+      "mcc": "7995",
+      "description": "Betting, Casino Gambling"
+    },
+    "aliases": [
+      "DREAM11 CHENNAI",
+      "DREAM11*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 17.815,
+        "lon": 82.504
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-01-24",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00181",
+    "merchant_name": "LuckyStar Casino Mumbai",
+    "category": {
+      "mcc": "7995",
+      "description": "Betting, Casino Gambling"
+    },
+    "aliases": [
+      "LUCKYSTAR CASINO MUMBAI",
+      "LUCKYSTAR*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 25.4187,
+        "lon": 72.6816
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2021-07-03",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00182",
+    "merchant_name": "LuckyStar Casino Kochi",
+    "category": {
+      "mcc": "7995",
+      "description": "Betting, Casino Gambling"
+    },
+    "aliases": [
+      "LUCKYSTAR CASINO KOCHI",
+      "LUCKYSTAR*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 29.8742,
+        "lon": 73.9815
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-07-08",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00183",
+    "merchant_name": "LuckyStar Casino Lucknow",
+    "category": {
+      "mcc": "7995",
+      "description": "Betting, Casino Gambling"
+    },
+    "aliases": [
+      "LUCKYSTAR CASINO LUCKNOW",
+      "LUCKYSTAR*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 9.1598,
+        "lon": 71.9557
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-12-21",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00184",
+    "merchant_name": "CoinDCX Kolkata",
+    "category": {
+      "mcc": "6051",
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "COINDCX KOLKATA",
+      "COINDCX*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 15.4438,
+        "lon": 73.7918
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-06-03",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00185",
+    "merchant_name": "CoinDCX Chennai",
+    "category": {
+      "mcc": "6051",
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "COINDCX CHENNAI",
+      "COINDCX*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 9.0002,
+        "lon": 75.7254
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2024-01-11",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00186",
+    "merchant_name": "CoinDCX Lucknow",
+    "category": {
+      "mcc": "6051",
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "COINDCX LUCKNOW",
+      "COINDCX*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 14.8057,
+        "lon": 79.1302
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-11-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00187",
+    "merchant_name": "WazirX Mumbai",
+    "category": {
+      "mcc": "6051",
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "WAZIRX MUMBAI",
+      "WAZIRX*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 24.1622,
+        "lon": 79.3461
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-03-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00188",
+    "merchant_name": "WazirX Jaipur",
+    "category": {
+      "mcc": "6051",
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "WAZIRX JAIPUR",
+      "WAZIRX*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 11.2625,
+        "lon": 83.8275
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-01-08",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00189",
+    "merchant_name": "WazirX Chennai",
+    "category": {
+      "mcc": "6051",
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "WAZIRX CHENNAI",
+      "WAZIRX*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 23.6033,
+        "lon": 74.6553
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-09-02",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00190",
+    "merchant_name": "QuickCash Remit Bengaluru",
+    "category": {
+      "mcc": 6051,
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "QUICKCASH REMIT BENGALURU",
+      "QUICKCASH*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 17.1034,
+        "lon": 74.572
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-09-10",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00191",
+    "merchant_name": "QuickCash Remit Kochi",
+    "category": {
+      "mcc": "6051",
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "QUICKCASH REMIT KOCHI",
+      "QUICKCASH*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 22.3033,
+        "lon": 71.1864
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-12-28",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00192",
+    "merchant_name": "QuickCash Remit Chennai",
+    "category": {
+      "mcc": 6051,
+      "description": "Quasi Cash, Crypto, Money Orders"
+    },
+    "aliases": [
+      "QUICKCASH REMIT CHENNAI",
+      "QUICKCASH*CHE"
+    ],
+    "address": {
+      "city": "Chennai",
+      "country": "IN",
+      "geo": {
+        "lat": 27.177,
+        "lon": 86.0012
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-03-03",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00193",
+    "merchant_name": "Western Union Kochi",
+    "category": {
+      "mcc": "4829",
+      "description": "Wire Transfer, Money Orders"
+    },
+    "aliases": [
+      "WESTERN UNION KOCHI",
+      "WESTERN*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 9.6605,
+        "lon": 70.7415
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-05-03",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00194",
+    "merchant_name": "Western Union Hyderabad",
+    "category": {
+      "mcc": "4829",
+      "description": "Wire Transfer, Money Orders"
+    },
+    "aliases": [
+      "WESTERN UNION HYDERABAD",
+      "WESTERN*HYD"
+    ],
+    "address": {
+      "city": "Hyderabad",
+      "country": "IN",
+      "geo": {
+        "lat": 16.1486,
+        "lon": 78.9969
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-01-31",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00195",
+    "merchant_name": "Western Union Lucknow",
+    "category": {
+      "mcc": 4829,
+      "description": "Wire Transfer, Money Orders"
+    },
+    "aliases": [
+      "WESTERN UNION LUCKNOW",
+      "WESTERN*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 17.4872,
+        "lon": 81.1695
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-03-26",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00196",
+    "merchant_name": "MoneyGram Bengaluru",
+    "category": {
+      "mcc": "4829",
+      "description": "Wire Transfer, Money Orders"
+    },
+    "aliases": [
+      "MONEYGRAM BENGALURU",
+      "MONEYGRAM*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 24.1262,
+        "lon": 72.2727
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-04-16",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00197",
+    "merchant_name": "MoneyGram Lucknow",
+    "category": {
+      "mcc": "4829",
+      "description": "Wire Transfer, Money Orders"
+    },
+    "aliases": [
+      "MONEYGRAM LUCKNOW",
+      "MONEYGRAM*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 20.807,
+        "lon": 74.6615
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2023-08-13",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00198",
+    "merchant_name": "MoneyGram Ahmedabad",
+    "category": {
+      "mcc": "4829",
+      "description": "Wire Transfer, Money Orders"
+    },
+    "aliases": [
+      "MONEYGRAM AHMEDABAD",
+      "MONEYGRAM*AHM"
+    ],
+    "address": {
+      "city": "Ahmedabad",
+      "country": "IN",
+      "geo": {
+        "lat": 11.3606,
+        "lon": 78.9659
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-03-28",
+    "is_active": false
+  },
+  {
+    "merchant_id": "M00199",
+    "merchant_name": "TeleShop India Delhi",
+    "category": {
+      "mcc": "5967",
+      "description": "Direct Marketing, Inbound Telemarketing"
+    },
+    "aliases": [
+      "TELESHOP INDIA DELHI",
+      "TELESHOP*DEL"
+    ],
+    "address": {
+      "city": "Delhi",
+      "country": "IN",
+      "geo": {
+        "lat": 14.8695,
+        "lon": 86.0743
+      }
+    },
+    "risk_level": "HIGH",
+    "onboarded_on": "2019-07-09",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00200",
+    "merchant_name": "TeleShop India Lucknow",
+    "category": {
+      "mcc": 5967,
+      "description": "Direct Marketing, Inbound Telemarketing"
+    },
+    "aliases": [
+      "TELESHOP INDIA LUCKNOW",
+      "TELESHOP*LUC"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "country": "IN",
+      "geo": {
+        "lat": 17.266,
+        "lon": 72.5623
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2018-04-15",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00201",
+    "merchant_name": "TeleShop India Pune",
+    "category": {
+      "mcc": 5967,
+      "description": "Direct Marketing, Inbound Telemarketing"
+    },
+    "aliases": [
+      "TELESHOP INDIA PUNE",
+      "TELESHOP*PUN"
+    ],
+    "address": {
+      "city": "Pune",
+      "country": "IN",
+      "geo": {
+        "lat": 12.1159,
+        "lon": 77.9828
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2021-07-01",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00100",
+    "merchant_name": "IndiGo Kolkata (old)",
+    "category": {
+      "mcc": "4511",
+      "description": "Airlines"
+    },
+    "aliases": [
+      "INDIGO KOLKATA",
+      "INDIGO*KOL"
+    ],
+    "address": {
+      "city": "Kolkata",
+      "country": "IN",
+      "geo": {
+        "lat": 23.9004,
+        "lon": 88.0228
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-09-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00008",
+    "merchant_name": "Reliance Fresh Mumbai (old)",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "RELIANCE FRESH MUMBAI",
+      "RELIANCE*MUM"
+    ],
+    "address": {
+      "city": "Mumbai",
+      "country": "IN",
+      "geo": {
+        "lat": 11.602,
+        "lon": 75.9835
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2019-01-02",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00017",
+    "merchant_name": "Barbeque Nation Kochi (old)",
+    "category": {
+      "mcc": "5812",
+      "description": "Eating Places, Restaurants"
+    },
+    "aliases": [
+      "BARBEQUE NATION KOCHI",
+      "BARBEQUE*KOC"
+    ],
+    "address": {
+      "city": "Kochi",
+      "country": "IN",
+      "geo": {
+        "lat": 12.9044,
+        "lon": 84.2571
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2020-11-12",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00084",
+    "merchant_name": "Reliance Digital Bengaluru (old)",
+    "category": {
+      "mcc": "5732",
+      "description": "Electronics Stores"
+    },
+    "aliases": [
+      "RELIANCE DIGITAL BENGALURU",
+      "RELIANCE*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 23.0329,
+        "lon": 86.7125
+      }
+    },
+    "risk_level": "MEDIUM",
+    "onboarded_on": "2022-11-27",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00003",
+    "merchant_name": "BigBasket Jaipur (old)",
+    "category": {
+      "mcc": "5411",
+      "description": "Grocery Stores, Supermarkets"
+    },
+    "aliases": [
+      "BIGBASKET JAIPUR",
+      "BIGBASKET*JAI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "country": "IN",
+      "geo": {
+        "lat": 21.8105,
+        "lon": 88.591
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2022-05-20",
+    "is_active": true
+  },
+  {
+    "merchant_id": "M00144",
+    "merchant_name": "Apollo Hospitals Bengaluru (old)",
+    "category": {
+      "mcc": "8062",
+      "description": "Hospitals"
+    },
+    "aliases": [
+      "APOLLO HOSPITALS BENGALURU",
+      "APOLLO*BEN"
+    ],
+    "address": {
+      "city": "Bengaluru",
+      "country": "IN",
+      "geo": {
+        "lat": 26.5463,
+        "lon": 70.4336
+      }
+    },
+    "risk_level": "LOW",
+    "onboarded_on": "2024-07-22",
+    "is_active": true
+  }
+]

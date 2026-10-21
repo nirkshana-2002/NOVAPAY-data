@@ -1,0 +1,21 @@
+mcc,description,category,is_high_risk
+5411,"Grocery Stores, Supermarkets",Groceries,N
+5812,"Eating Places, Restaurants",Dining,N
+5814,Fast Food Restaurants,Dining,N
+5541,Service Stations,Fuel,N
+5311,Department Stores,Shopping,N
+5999,Miscellaneous Retail,Shopping,N
+5732,Electronics Stores,Electronics,N
+4111,Local Commuter Transport,Travel,N
+4511,Airlines,Travel,N
+7011,"Hotels, Motels, Resorts",Travel,N
+4900,Utilities,Bills,N
+4814,Telecommunication Services,Bills,N
+8062,Hospitals,Health,N
+5912,"Drug Stores, Pharmacies",Health,N
+8220,"Colleges, Universities",Education,N
+5944,Jewelry Stores,Luxury,Y
+7995,"Betting, Casino Gambling",Gambling,Y
+6051,"Quasi Cash, Crypto, Money Orders",Quasi-cash,Y
+4829,"Wire Transfer, Money Orders",Transfers,Y
+5967,"Direct Marketing, Inbound Telemarketing",Shopping,Y
